@@ -1,0 +1,5 @@
+wsf_social:
+    resource: "@WSFSocialBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

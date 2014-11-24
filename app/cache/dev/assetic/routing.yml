@@ -2,4 +2,4 @@ _assetic:
     resource: .
     type: assetic
 _app:
-    resource: /home/killian/Developpement/www/path/app/config/routing_dev.yml
+    resource: /home/manuel/development/WSF-Social-by-CoolKids/app/config/routing_dev.yml
